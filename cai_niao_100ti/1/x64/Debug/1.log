@@ -1,0 +1,4 @@
+﻿D:\visual studio-2022-an-zhuang-IDE\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.c
+D:\VS_test\cai_niao_100ti\1\main.c(475,7): warning C4305: “初始化”: 从“double”到“float”截断
+  1.vcxproj -> D:\VS_test\cai_niao_100ti\x64\Debug\cai_niao_100ti.exe

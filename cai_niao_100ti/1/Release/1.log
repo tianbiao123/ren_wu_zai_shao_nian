@@ -1,0 +1,18 @@
+﻿  add.c
+  er_wei_shu_zu_shu_chu.c
+  er_wei_shu_zu_shu_ru.c
+  jie_cheng.c
+  jie_cheng_he.c
+  main.c
+D:\VS_test\cai_niao_100ti\1\main.c(5097,8): warning C4101: “US$”: 未引用的局部变量
+D:\VS_test\cai_niao_100ti\1\main.c(5095,9): warning C4101: “int_”: 未引用的局部变量
+D:\VS_test\cai_niao_100ti\1\main.c(5096,7): warning C4101: “For”: 未引用的局部变量
+D:\VS_test\cai_niao_100ti\1\main.c(5094,6): warning C4101: “_int”: 未引用的局部变量
+  shu_zu_shu_chu.c
+  shu_zu_shu_ru.c
+  su_shu.c
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  1.vcxproj -> D:\VS_test\cai_niao_100ti\Release\cai_niao_100ti.exe
